@@ -21,8 +21,9 @@ Tabaxi
 Harengon
  
 Leonin
- 
- 
+
+
+
 Possible other races, in no specific order (Feel free to suggest any canon anthro races in DnD, even if they're just statblock monsters):
  
 Kobold (rework the current models in the game)
@@ -57,4 +58,4 @@ Centaur (Idk how the horse half would work)
 
 Possible homebrew/previous edition/alt campaign setting races (feel free to suggest some - I will not be making up any myself):
 Ratatosk (3e)
-Rodentfolk (homebrew - Probably include mice and jerboa)
+Rodentfolk (homebrew - Probably include mice, rats, and jerboa)
